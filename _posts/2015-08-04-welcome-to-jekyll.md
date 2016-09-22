@@ -16,7 +16,7 @@ In this article, we'll investigate shared facilitating (a characteristic beginni
 
 Fundamentally, Virtual Private Servers are a noteworthy stride up from general shared facilitating plans — with costs extending from as meager as $5/month on the low end to $20–$55 for a fair mid-range VPS administration. Is the extra cost legitimized? We should investigate… 
 
-##Shared Hosting 
+## Shared Hosting 
 
 Shared facilitating is a path for facilitating organizations to put an expansive number of clients on the same server. A server is simply a PC with a processor, memory, and a hard drive — simply like your own home PC. In the event that you ever experienced childhood in a family with a solitary PC utilized by the entire family, then you're most likely effectively acquainted with a portion of the upsides and drawbacks of shared facilitating. 
 
@@ -40,7 +40,7 @@ Assigning assets per-client makes for an a great deal more steady and unsurprisi
 
 Another preferred standpoint to this is better security for everybody. There are occasions of scripts that can sidestep the hypervisor — the procedure that makes the virtual servers, however these are exceedingly uncommon. 
 
-##Should I Switch To VPS? 
+## Should I Switch To VPS? 
 
 The straightforward answer is: Yes. You ought to consider moving far from shared facilitating in case you're maintaining a genuine online business — in spite of the fact that relying upon the kind of site you're running, a VPS may not be the main decision worth considering: but rather we'll get to that somewhat later on. I can consider just two great purposes behind when utilizing a mutual host may be a superior choice than utilizing a VPS: one is a direct result of money related contemplations, the other is that you have various low-activity sites that you'd like to keep live yet aren't yet of any genuine essentialness. 
 
@@ -60,7 +60,7 @@ The same is generally valid for transfer speed. A low-end VPS ordinarily offers 
 
 In the event that you have this numerous guests on a mutual host, you'll probably be utilizing far a greater number of assets than you ought to be and your site will be down essentially constantly. Truth be told, in the event that you have anyplace close to 500,000 guests a month then you ought to presumably be searching for much higher-end facilitating arrangements in any case — and with movement like that going to your site, you'll likely have all that anyone could need cash to do as such! 
 
-##Distinctive Types Of VPS 
+## Distinctive Types Of VPS 
 
 VPS records are separated in light of the measure of assets you're designated. 
 
@@ -68,7 +68,7 @@ The most minimal estimated plans (for the most part about $20/month) more often 
 
 As far as I can tell, on the off chance that you've been escaping with a mutual host as such, a $20/month VPS server will likely suit your site/needs. Besides, you have to, most VPS hosts will give you a chance to scale up on for all intents and purposes a minutes notice — basically pay them somewhat more and they'll designate your site more assets in like manner. 
 
-##What Else Is There? 
+## What Else Is There? 
 
 Other than VPS, another exceptionally feasible arrangement — in case you're running a WordPress-fueled site — would be to pick "oversaw WordPress facilitating". Overseen WordPress facilitating may (in fact talking) be keep running on either shared or VPS servers, but since such administrations are particularly tuned to running just WordPress, they accompany various critical advantages, one of which is velocity! 
 
