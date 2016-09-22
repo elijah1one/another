@@ -5,8 +5,8 @@ baseurl: "/another" # the subpath of your site, e.g. /blog
 url: "http://weboholic.xyz" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: A Weboholic Speaks
-user_description: Anon Developer at Lorem Ipsum Dolor
+username: a Weboholic Speaks
+user_description: Anon Developer in the U.S.A.
 user_title: Anon Developer
 email: anon@anon.com
 twitter_username: lorem_ipsum
