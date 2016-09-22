@@ -2,7 +2,7 @@
 layout: minimal
 title: "About me"
 permalink: /about/index.html
-description: "This is just the 'about me' page of the site. You know what it's about! "
+description: "Some description about Lorem Ipsum..."
 ---
 
 <img itemprop="image" class="img-rounded" src="/assets/img/blog-author.jpg" alt="Willian Justen">
