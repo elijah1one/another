@@ -14,7 +14,7 @@ twitter_text: 'An article exploring the benefits and disadvantages to shared and
 
 In this article, we'll investigate hosting through a shared system (a characteristic beginning stage for little sites) and VPS (Virtual Private Server) hosts. We will then look at the pluses and minuses for each one. 
 
-Fundamentally speaking, Virtual Private Servers are a noteworthy stride up from your average shared hosting plan. Nowadays, it is common to find a VPS costing as low as five bucks a month (i.e. on LowEndBox). However, costs for a more robust and reliable VPS can go up to $50.00 per month, and we are only talking about the mid-range for VPS hosts. Some of those who are disastisfied with shared hosting might wonder, is the extra cost worth it? We will try to resolve this question in the following paragraphs.  
+Fundamentally speaking, Virtual Private Servers are a noteworthy stride up from your average shared hosting plan. Nowadays, it is common to find a VPS costing as low as five bucks a month (i.e. on [LowEndBox](http://www.lowendbox.com)). However, costs for a more robust and reliable VPS can go up to $50.00 per month, and we are only talking about the mid-range for VPS hosts. Some of those who are disastisfied with shared hosting might wonder, is the extra cost worth it? We will try to resolve this question in the following paragraphs.  
 
 ## Examining the World Shared Hosting 
 
