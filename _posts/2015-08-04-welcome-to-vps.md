@@ -28,7 +28,7 @@ Shared facilitating is fundamentally the same as having a family PC. The server 
 
 Obviously, you shouldn't generally expect a ton for such an ease. In the event that there's a site with a memory spill on the same server you're on, you'll be influenced. In the event that a webpage goes through 80% of the memory, every single other site (which could be thousands) can just get to the staying 20%. Besides, assaults towards a solitary site on a server may spread issues all through the entire client base. This is regularly alluded to as the "terrible neighbor" impact. The most exceedingly awful part is that it's totally erratic, which makes it verging on difficult to anticipate. 
 
-##VPS Hosting 
+## VPS Hosting 
 
 Contrasted with a mutual facilitating administration, a VPS (Virtual Private Server) is an in fact predominant arrangement in verging on each and every way. In fact, VPS servers are quite "shared" situations (in as much as there will even now be more than one client running on the same physical machine) however the innovation used to allot assets and keep clients separate is a great deal more refined. 
 
